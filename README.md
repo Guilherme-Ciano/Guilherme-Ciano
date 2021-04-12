@@ -5,7 +5,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Ciano&theme=radical&layout=compact" />
 </div>
 
-<hr>
+<hr></hr>
 ## About me
 ### I'm a studend of system development focused on web development and fan of security
 - ⭐   I never stop searching for new tecnologies for study. 
