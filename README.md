@@ -3,13 +3,13 @@
 
 <p>
   <p align="center">
-    <a href="https://www.linkedin.com/in/guilherme-de-camargo-ciano-81562419a/" target="blank">
+    <a href="https://www.linkedin.com/in/guilherme-de-camargo-ciano-81562419a/" target="_blank">
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
     </a>
   
-    <a href="https://github.com/guilherme-ciano/tab=repositories" target="_blank">
-      <img src="https://badges.pufler.dev/repos/guilherme-ciano?style=for-the-badge&color=%23D3D3D3" alt="Repositories" />
-    </a>
+   <a href="https://github.com/guilherme-ciano/tab=repositories" target="_blank">
+     <img src="https://badges.pufler.dev/repos/guilherme-ciano?style=for-the-badge&color=%23D3D3D3" alt="Repositories" />
+   </a>
   </p>
 
 </p>
