@@ -17,7 +17,7 @@
 ```js
   import Developer from Guilherme_Ciano;
 
-  class SobreMim extends Desenvolvedor {
+  class SobreMim extends Developer {
     name     = 'Guilherme de Camargo Ciano';
     type    = 'Front-End';
     graduation  = 'Software developer';
