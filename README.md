@@ -16,7 +16,7 @@
 </h2>
 
 <div
-     display="flex"
+     style="display:flex; flex-direction: row; justify-content: space-between; width: 100%"
 >
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Guilherme-Ciano&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
