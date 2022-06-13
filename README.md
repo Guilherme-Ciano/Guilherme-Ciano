@@ -19,7 +19,7 @@
      style="display:flex; flex-direction: row; justify-content: space-between; width: 100%"
 >
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Guilherme-Ciano&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=guilherme-ciano&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
 ## 🛠️ My favorite tools
