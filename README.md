@@ -20,10 +20,7 @@
 >
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Guilherme-Ciano&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme-Ciano&show_icons=true&theme=radical)
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Guilherme-Ciano's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Ciano&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
 </div>
-
 
 ## 🛠️ My favorite tools
 
