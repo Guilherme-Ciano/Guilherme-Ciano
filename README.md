@@ -2,17 +2,6 @@
   Welcome to my profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
     </br></br>
-    <div>
-    <a href="https://www.linkedin.com/in/guilherme-de-camargo-ciano-81562419a/" target="_blank">
-      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
-    </a>
-    <a href="https://www.instagram.com/gui_ciano/" target="_blank">
-      <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" alt="Instagram">
-    </a>
-    <a href = "mailto:gui_ciano31@yahoo.com">
-      <img src="https://img.shields.io/badge/gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-    </a>
-</div>
 </h2>
 
 <div
