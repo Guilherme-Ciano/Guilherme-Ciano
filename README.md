@@ -4,12 +4,8 @@
 
 I'm a passionate developer enthusiastic about technology, always eager to learn and share knowledge. My main area of interest is web development, with a special focus on JavaScript and its technologies.
 
-### 🌱 Top Projects
-
+### 🌱 Top Project
   [![Minify-UI](https://github-readme-stats.vercel.app/api/pin/?username=Guilherme-Ciano&repo=minify-ui)](https://github.com/Guilherme-Ciano/minify-ui)
-  
-  [![Kernel](https://github-readme-stats.vercel.app/api/pin/?username=Guilherme-Ciano&repo=Assembly-Kernel)](https://github.com/Guilherme-Ciano/Assembly-Kernel)
-</div>
 
 ### 📊 GitHub Statistics
 
